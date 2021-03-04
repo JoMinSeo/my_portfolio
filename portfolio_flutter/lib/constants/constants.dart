@@ -1,10 +1,12 @@
 import 'package:flutter/cupertino.dart';
 
-// const kNaNumRegular = TextStyle(fontFamily: "NaNum");
-// const kNaNumBold = TextStyle(fontFamily: "NaNum", fontWeight: FontWeight.w500);
-// const kNaNumLight = TextStyle(fontFamily: "NaNum", fontWeight: FontWeight.w300);
+const kMontMedium = TextStyle(fontFamily: "Montserrat");
+// const kNaNumBold =
+//     TextStyle(fontFamily: "Montserrat", fontWeight: FontWeight.w500);
+// const kNaNumLight =
+//     TextStyle(fontFamily: "Montserrat", fontWeight: FontWeight.w300);
 // const kNaNumExtraBold =
-//     TextStyle(fontFamily: "NaNum", fontWeight: FontWeight.w700);
+//     TextStyle(fontFamily: "Montserrat", fontWeight: FontWeight.w700);
 
 const kGrey = Color(0xFFEDF0F8);
 const kPrimary = Color(0xFF001E58);
