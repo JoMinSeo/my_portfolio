@@ -1,15 +1,10 @@
 import 'package:flutter/cupertino.dart';
 
-const kSchoolName = "KEY_SCHOOL_NAME";
-const kSchoolId = "KEY_SCHOOL_ID";
-const kLocate = "KEY_LOCATE";
-const kOfficeCode = "KEY_OFFICE_CODE";
-
-const kNaNumRegular = TextStyle(fontFamily: "NaNum");
-const kNaNumBold = TextStyle(fontFamily: "NaNum", fontWeight: FontWeight.w500);
-const kNaNumLight = TextStyle(fontFamily: "NaNum", fontWeight: FontWeight.w300);
-const kNaNumExtraBold =
-    TextStyle(fontFamily: "NaNum", fontWeight: FontWeight.w700);
+// const kNaNumRegular = TextStyle(fontFamily: "NaNum");
+// const kNaNumBold = TextStyle(fontFamily: "NaNum", fontWeight: FontWeight.w500);
+// const kNaNumLight = TextStyle(fontFamily: "NaNum", fontWeight: FontWeight.w300);
+// const kNaNumExtraBold =
+//     TextStyle(fontFamily: "NaNum", fontWeight: FontWeight.w700);
 
 const kGrey = Color(0xFFEDF0F8);
 const kPrimary = Color(0xFF001E58);
